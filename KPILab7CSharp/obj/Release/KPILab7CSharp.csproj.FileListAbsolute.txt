@@ -1,0 +1,9 @@
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\bin\Release\KPILab7CSharp.exe.config
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\bin\Release\KPILab7CSharp.exe
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\bin\Release\KPILab7CSharp.pdb
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.Form1.resources
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.Properties.Resources.resources
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.csproj.GenerateResource.Cache
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.exe
+C:\Users\kirill\Documents\Visual Studio 2017\Projects\KPILab7CSharp\KPILab7CSharp\obj\Release\KPILab7CSharp.pdb
