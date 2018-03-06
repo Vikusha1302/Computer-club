@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\прога работа\projectmy\projectmy\functions.h(180): warning C4715: Player::get_choice2: значение возвращается не при всех путях выполнения
+d:\прога работа\projectmy\projectmy\functions.h(162): warning C4715: Player::get_choice1: значение возвращается не при всех путях выполнения
+  Projectmy.vcxproj -> D:\Прога работа\Projectmy\Debug\Projectmy.exe
